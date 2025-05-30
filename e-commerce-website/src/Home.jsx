@@ -17,7 +17,7 @@ function Home(){
         <div className="home-container">
             <img src={homeImage} alt="Image"/>
         <div> 
-            <p className="best-seller"> Our best sellers </p>
+            <p className="best-seller"> Our best sellers  </p>
         <Card image={cloth1} name="Plaid Blazer" price="$50.99"/> 
         <Card image={cloth2} name="Classic Black Suit" price="$78.00"/>  
         <Card image={cloth3} name="Classic Brown Suit" price="$82.99"/>  
