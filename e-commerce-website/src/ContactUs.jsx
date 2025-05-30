@@ -75,7 +75,7 @@ function ContactUs(){
                         <option value="Issues">Account & Login Issues</option>
                         <option value="Feedback">Feedback & Suggestions</option>
                         <option value="Location">Store location & Hours</option>
-                        <option value="Other">Other Inquiries</option>
+                        <option value="Other">Other Inquiries </option>
                     </select>
 
                 <p> Subject</p>
