@@ -13,7 +13,7 @@ function NavBar(){
             <NavLink className={(element) => {return element.isActive ? "pink": ""}}to ="/home"> <li>Home</li> </NavLink>
             <NavLink className={(element) => {return element.isActive ? "pink" : ""}}to="/aboutus"> <li>About us</li> </NavLink>
             <NavLink className={(element) => {return element.isActive ? "pink" : ""}}to="/contactus"> <li>Contact us</li> </NavLink>
-            <NavLink className={(element) => {return element.isActive ? "pink" : ""}}to="/login"> <li>Login</li> </NavLink>
+            <NavLink className={(element) => {return element.isActive ? "pink" : ""}}to="/login"> <li>Login </li> </NavLink>
 
             <div className="search-bar">
             <input type="text" placeholder="Search..."/>
