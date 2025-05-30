@@ -48,7 +48,7 @@ function AboutUs() {
           invite you to join us on our journey to redefine minimalism in
           fashion. Follow us on social media to stay updated on our latest
           collections, style tips, and exclusive offers. We’re excited to have
-          you as part of our growing family.
+          you as part of our growing family .
         </p>
       </div>
 
