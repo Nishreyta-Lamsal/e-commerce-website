@@ -18,7 +18,7 @@ function Card(props){
             <h2>{props.name}</h2>
             <p>{props.price}</p>
             <p className="added-message"> {addedMessage}</p>
-            <button onClick={handleCart}> Add to Cart</button>
+            <button onClick={handleCart}> Add to Cart </button>
         </div>
 
     );
