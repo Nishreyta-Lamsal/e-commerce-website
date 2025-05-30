@@ -11,7 +11,7 @@ import SignUp from './SignUp.jsx'
 
 function App() {
 
-  const router = createBrowserRouter([
+  const router = createBrowserRouter ([
     {
     path: "/",
     element: <>  <NavBar/> <Home/></> //default route for "/"
